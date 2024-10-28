@@ -4,9 +4,6 @@ languageCode = "en"
 title = "Layna Lingam"
 theme = "dream"
 
-[[module.imports]]
-path = "https://github.com/g1eny0ung/hugo-theme-dream"
-disable = false
 
 # [services]
 # [services.disqus]
