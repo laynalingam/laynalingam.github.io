@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Layna Lingam</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Layna Lingam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Oct 2024 19:59:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artwork</title>
+      <link>http://localhost:1313/categories/artwork/</link>
+      <pubDate>Mon, 28 Oct 2024 19:59:41 +0530</pubDate>
+      <guid>http://localhost:1313/categories/artwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Layna&#39;s Photos</title>
+      <link>http://localhost:1313/categories/laynas-photos/</link>
+      <pubDate>Mon, 28 Oct 2024 12:32:48 +0530</pubDate>
+      <guid>http://localhost:1313/categories/laynas-photos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
