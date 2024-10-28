@@ -52,6 +52,6 @@ The room was filled with their moans, their whispers of pleasure and shame. The 
 
 As the last waves of pleasure subsided, Ava's body collapsed against Maddy's, her breath hot against his neck. What have we done? she thought, her mind a jumble of guilt and desire. What have we become? Yet, as she looked into Maddy's eyes, she knew. They were lost to this dark, twisted path, their souls entwined in a dance of forbidden lust. And there was no turning back.
 
-![A Romantic Climax](art_02.jpeg)
+![A Romantic Climax](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e65db3d-c612-4d70-943d-006b439764d5/original=true,quality=90/HMRCZFS6ANRKA8HYVKXESNQQM0.jpeg)
 
 --- fin ---
