@@ -25,6 +25,9 @@ Ava's evening with Maddy at their home.
 
 <!--more-->
 
+> [!CAUTION]
+> Caution : For adults only. 18+ Only.
+
 The sun streamed through the sheer curtains, casting a golden glow over the plush, cream-colored sofa. Ava, with her fiery hair cascading down her shoulders, sat there in a teal silk camisole and a pink ruffled skirt that barely concealed her thighs. Her eyes were closed, lips slightly parted, as if savoring an unseen kiss. Beside her, Maddy, her own, leaned in, his dark hair framing his intense gaze. His navy tank top clung to his muscular torso, and his khaki shorts did little to hide the growing bulge beneath.
 
 Ava's fingers traced the edge of the sofa, her nails painted a deep, seductive red. God, what am I doing? she thought, her heart pounding in her chest like a drumbeat of desire. This is wrong, so wrong. Yet, her body betrayed her, her nipples hardening against the silk of her camisole, her breath hitching as Maddy's hand brushed against hers.
@@ -50,3 +53,5 @@ The room was filled with their moans, their whispers of pleasure and shame. The 
 As the last waves of pleasure subsided, Ava's body collapsed against Maddy's, her breath hot against his neck. What have we done? she thought, her mind a jumble of guilt and desire. What have we become? Yet, as she looked into Maddy's eyes, she knew. They were lost to this dark, twisted path, their souls entwined in a dance of forbidden lust. And there was no turning back.
 
 ![A Romantic Climax](art_02.jpeg)
+
+--- fin ---
