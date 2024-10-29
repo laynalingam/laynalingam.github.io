@@ -25,9 +25,11 @@ I am a woman who’s learned that life has its twists, turns, and a few fun deto
 
 This site is my little corner where I get to share my art, my stories, and maybe even stir a bit of mystery for anyone who’s curious enough to look.
 
+> Warning : I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
+
 ### My Artworks
 
-[My Art Works](https://civitai.com/user/LaynaLingam/images?sort=Most+Collected)
+[My Art Works](https://civitai.com/user/LaynaLingam/posts?sort=Newest)
 
 ### My Stories
 

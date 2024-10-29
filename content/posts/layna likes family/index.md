@@ -30,9 +30,11 @@ Rediscovering myself while living with two young men who are often a little too 
 
 Anyway, after my divorce, I have my own frustrations and, well, let’s call them “needs” that I’m rediscovering as I carve out more of my space.
 
+> Warning : I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
+
 ### My Artworks
 
-[My Art Works](https://civitai.com/user/LaynaLingam/images?sort=Most+Collected)
+[My Art Works](https://civitai.com/user/LaynaLingam/posts?sort=Newest)
 
 ### My Stories
 

@@ -26,3 +26,13 @@ I believe Jesus Christ is our lord and savior. Faith is a grounding force in my 
 I believe in devotion, reflection, and a little room for wandering spiritual thoughts—who doesn’t? I find faith isn’t always so black and white, and if you read between the lines, you might catch a bit of my own personal passion woven in. After all, life and faith can hold more than meets the eye. I also love to irritate my sons coaxing them to read Bible 😉.
 
 Faith and fantasy often coexist in unique, mysterious ways.
+
+> Warning : I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
+
+### My Artworks
+
+[My Art Works](https://civitai.com/user/LaynaLingam/posts?sort=Newest)
+
+### My Stories
+
+[My Stories](https://chyoa.com/story/Hypnotic-Bonds.64081)

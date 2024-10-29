@@ -31,15 +31,11 @@ I create portraits and images that invite you to linger, to look a little closer
 
 There’s always something extra layered in each piece—a suggestion, a thrill, a hint of the forbidden that waits for those who look closely enough 🖌️. I like to think of my art as a visual adventure into sensuality and mystery, crafted to awaken a spark of curiosity… or maybe something a bit deeper.
 
----
-
 > Warning : I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
-
----
 
 ### My Artworks
 
-[My Art Works](https://civitai.com/user/LaynaLingam/images?sort=Most+Collected)
+[My Art Works](https://civitai.com/user/LaynaLingam/posts?sort=Newest)
 
 ### My Stories
 

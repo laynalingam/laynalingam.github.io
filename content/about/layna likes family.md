@@ -28,3 +28,13 @@ Motherhood has been its own wild adventure! My two boys are adults now, and whil
 Rediscovering myself while living with two young men who are often a little too comfortable with themselves has been… interesting. Let’s just say, life as a single mom has some surprises. Like every morning finding sticky wet crumbled napkins while cleaning their rooms or catching a glimpse of their screens before they realize I’m there.
 
 Anyway, after my divorce, I have my own frustrations and, well, let’s call them “needs” that I’m rediscovering as I carve out more of my space.
+
+> Warning : I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
+
+### My Artworks
+
+[My Art Works](https://civitai.com/user/LaynaLingam/posts?sort=Newest)
+
+### My Stories
+
+[My Stories](https://chyoa.com/story/Hypnotic-Bonds.64081)
