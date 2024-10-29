@@ -33,7 +33,14 @@ There’s always something extra layered in each piece—a suggestion, a thrill,
 
 ---
 
-> [!CAUTION]
-> I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
+> Warning : I write fictional dark erotica stories, graphic novels and articles. Intended for adults only. Do not follow me if you are <= 21 👶🏻.
 
 ---
+
+### My Artworks
+
+[My Art Works](https://civitai.com/user/LaynaLingam/images?sort=Most+Collected)
+
+### My Stories
+
+[My Stories](https://chyoa.com/story/Hypnotic-Bonds.64081)
