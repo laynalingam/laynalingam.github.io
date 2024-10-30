@@ -17,7 +17,7 @@ tags:
   - love-making
 # nolastmod: true
 draft: false
-comments: true
+showComments: true
 disqus: true
 ---
 

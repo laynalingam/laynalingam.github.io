@@ -9,8 +9,6 @@ theme = "dream"
 [services.disqus]
 shortname = "laynalingam"
 
-[params.disqusShortname] = "abcd"
-
 [services.googleAnalytics]
 ID = "JXR68YGYKQ"
 
