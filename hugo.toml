@@ -5,11 +5,11 @@ title = "Layna Lingam"
 theme = "dream"
 
 
-# [services]
-# [services.disqus]
-# shortname = ""
-# [services.googleAnalytics]
-# ID = ""
+[services]
+[services.disqus]
+shortname = "laynalingam"
+[services.googleAnalytics]
+ID = "JXR68YGYKQ"
 
 [params]
  zenMode = false
@@ -26,7 +26,7 @@ avatar = "img/laynalingam.webp"
 headerTitle = "Layna Lingam"
 motto = "Layna's Sensual Escapedes"
 
-footerBottomText = "Layna 2024"
+footerBottomText = "Layna 2024 Copyright | All Rights Reserved"
 
 # rss = true
 
