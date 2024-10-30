@@ -8,6 +8,9 @@ theme = "dream"
 [services]
 [services.disqus]
 shortname = "laynalingam"
+
+[params.disqusShortname] = "abcd"
+
 [services.googleAnalytics]
 ID = "JXR68YGYKQ"
 
@@ -60,7 +63,7 @@ reorderShares = ["x", "youtube", "whatsapp"]
 
 # [[params.navItems]]
 
-#[params.advanced]
+# [params.advanced]
 #customCSS = ["css/custom.css"]
 #customJS = []
 

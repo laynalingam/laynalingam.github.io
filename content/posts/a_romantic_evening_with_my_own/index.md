@@ -17,6 +17,8 @@ tags:
   - love-making
 # nolastmod: true
 draft: false
+comments: true
+disqus: true
 ---
 
 # A Romantic Evening With My Own
