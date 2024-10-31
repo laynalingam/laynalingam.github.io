@@ -18,7 +18,6 @@ tags:
 # nolastmod: true
 draft: false
 showComments: true
-disqus: true
 ---
 
 # A Romantic Evening With My Own

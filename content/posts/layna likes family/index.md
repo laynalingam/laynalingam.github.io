@@ -14,6 +14,7 @@ tags:
   - my-photos
 nolastmod: true
 draft: false
+showComments: true
 ---
 
 ![Layna Family Blurred 01](/img/layna_family_blurred_01.png)

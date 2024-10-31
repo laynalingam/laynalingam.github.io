@@ -13,6 +13,7 @@ tags:
   - my-photos
 nolastmod: true
 draft: false
+showComments: true
 ---
 
 ![Layna Praying](/img/layna_pray.png)
