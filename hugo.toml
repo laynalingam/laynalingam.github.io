@@ -44,13 +44,13 @@ email = "laynalingam@gmail.com"
 
 siteStartYear = 2016
 
-favicon = "img/favicon.png"
+favicon = "img/favicon.svg"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
 
 # options
-stickyNav = false
+stickyNav = true
 reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
 collapseNavItems = ["posts", "categories", "tags"]
 noDefaultSummaryCover = true

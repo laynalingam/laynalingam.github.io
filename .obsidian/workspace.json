@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16cda1cb2b471564",
+        "id": "42eeef8fe335ee21",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6f8437d01d8c14",
+            "id": "c7c6adc58ca3c0f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,8 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab6f8437d01d8c14",
+  "active": "c7c6adc58ca3c0f1",
   "lastOpenFiles": [
+    "hugo.toml",
+    "public/img/favicon.svg",
+    "public/img/cover3.webp",
     "static/img/favicon.svg",
     "static/img/1f36c.svg",
     "static/img/cover3.webp",
@@ -178,14 +181,11 @@
     "public/posts/one-more-time",
     "content/posts/One more time",
     "public/img/cover2.webp",
-    "public/img/cover.webp",
     "content/posts/Final Test/index.md",
     "static/templater/New Blog ( updated ).md",
-    "public/img/cover.png",
     "public/posts/final-test/index.html",
     "public/posts/final-test",
     "content/posts/Final Test",
-    "static/img/piclumen-1730432895122.png",
     "content/posts/null/index.md",
     "content/posts/testing.md",
     "content/posts/new test templater script/index.md",
