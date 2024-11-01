@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8783dcb7cb0d7019",
+        "id": "16cda1cb2b471564",
         "type": "tabs",
         "children": [
           {
-            "id": "fe352738d60e6a6e",
+            "id": "ab6f8437d01d8c14",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "static/img/cover2.webp"
-              },
-              "icon": "lucide-image",
-              "title": "cover2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -162,10 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe352738d60e6a6e",
+  "active": "ab6f8437d01d8c14",
   "lastOpenFiles": [
-    "static/img/cover.png",
     "static/img/cover2.webp",
+    "static/img/cover.png",
     "static/img/cover.webp",
     "content/posts/One more time/index.md",
     "public/posts/one-more-time/index.html",
