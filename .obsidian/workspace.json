@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c7cba90ef2c42eea",
+        "id": "8783dcb7cb0d7019",
         "type": "tabs",
         "children": [
           {
-            "id": "e34356008dee4a13",
+            "id": "fe352738d60e6a6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "static/img/cover2.webp"
+              },
+              "icon": "lucide-image",
+              "title": "cover2"
             }
           }
         ]
@@ -73,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "5631e5e1233b9b97",
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hugo.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for hugo"
             }
           },
           {
@@ -107,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hugo.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from hugo"
             }
           },
           {
@@ -132,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "hugo.toml"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of hugo"
             }
           }
         ]
@@ -150,10 +156,51 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e34356008dee4a13",
-  "lastOpenFiles": []
+  "active": "fe352738d60e6a6e",
+  "lastOpenFiles": [
+    "static/img/cover.png",
+    "static/img/cover2.webp",
+    "static/img/cover.webp",
+    "content/posts/One more time/index.md",
+    "public/posts/one-more-time/index.html",
+    "public/posts/one-more-time",
+    "content/posts/One more time",
+    "public/img/cover2.webp",
+    "public/img/cover.webp",
+    "content/posts/Final Test/index.md",
+    "static/templater/New Blog ( updated ).md",
+    "public/img/cover.png",
+    "public/posts/final-test/index.html",
+    "public/posts/final-test",
+    "content/posts/Final Test",
+    "static/img/piclumen-1730432895122.png",
+    "static/img/laynalingam.webp",
+    "static/img/laynalingam 1.webp",
+    "static/img/layna_write.png",
+    "content/posts/null/index.md",
+    "content/posts/testing.md",
+    "content/posts/new test templater script/index.md",
+    "public/tags/test/index.xml",
+    "public/tags/test/page/1/index.html",
+    "public/tags/test/page/1",
+    "public/tags/test/page",
+    "content/posts/a_romantic_evening_with_my_own/index.md",
+    "content/posts/newer updated templater script/index.md",
+    "public/templater/New Blog ( updated ).md",
+    "static/templater/New Blog (with folder).md",
+    "content/posts/layna likes family/index.md",
+    "content/posts/layna likes to art/index.md",
+    "content/posts/newlayn/index.md",
+    "public/templater/New Blog (with folder).md",
+    "public/templater/Youtube Link.md",
+    "public/templater/Quote.md",
+    "static/templater/Youtube Link.md",
+    "static/templater/Quote.md"
+  ]
 }
