@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7c6adc58ca3c0f1",
+            "id": "81fde73b41d3f1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,7 +164,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7c6adc58ca3c0f1",
+  "active": "81fde73b41d3f1d1",
   "lastOpenFiles": [
     "hugo.toml",
     "public/img/favicon.svg",
