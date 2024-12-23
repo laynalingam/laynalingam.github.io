@@ -17,7 +17,7 @@
 
 
 <meta name="author" content="Layna Lingam" />
-<meta name="description" content="Layna Lingam&#39;s Website" />
+<meta name="description" content="Layna Lingam&#39;s Official Website" />
 
 
 
@@ -27,7 +27,7 @@
 <meta property="og:url" content="http://localhost:1313/tags/mom-son/">
   <meta property="og:site_name" content="Layna Lingam">
   <meta property="og:title" content="Mom-Son">
-  <meta property="og:description" content="Layna Lingam&#39;s Website">
+  <meta property="og:description" content="Layna Lingam&#39;s Official Website">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
@@ -36,7 +36,7 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Mom-Son">
-  <meta name="twitter:description" content="Layna Lingam&#39;s Website">
+  <meta name="twitter:description" content="Layna Lingam&#39;s Official Website">
 
 
 
@@ -83,7 +83,7 @@
         </a>
         
         
-        <div class="text-base-content/60 text-sm">Layna&#39;s Sensual Escapedes</div>
+        <div class="text-base-content/60 text-sm">Layna&#39;s Sensual Escapades 🍑</div>
         
       </div>
       
@@ -93,7 +93,7 @@
       <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
         <ion-icon name="menu" class="text-2xl"></ion-icon>
       </div>
-      <ul class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
         
 
 
@@ -165,7 +165,11 @@
       
       
       
-      <div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title="About">About</div>
+      <div role="link" tabindex="0"
+        class="text-sm font-semibold cursor-pointer hover:underline"
+        @click="flip = !flip"
+        title="About"
+      >About</div>
       
       
 
@@ -198,7 +202,7 @@
         <div tabindex="0" role="button" class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" aria-label="Select an option">
           <ion-icon class="group-hover:text-primary-content text-xl" name="menu"></ion-icon>
         </div>
-        <ul class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-xl">
+        <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-xl">
           
           
 <li>
@@ -289,18 +293,6 @@
       
       <a href="/tags/romantic/" class="badge h-6 no-underline hover:badge-primary">
         Romantic
-      </a>
-      
-      
-      
-      <a href="/tags/test/" class="badge h-6 no-underline hover:badge-primary">
-        Test
-      </a>
-      
-      
-      
-      <a href="/tags/testing/" class="badge h-6 no-underline hover:badge-primary">
-        Testing
       </a>
       
       
@@ -428,9 +420,9 @@
 
 
             
-            <footer class="flex justify-between items-center gap-2 px-4 py-12">
-            
-              <div>
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
   
   <p>
     © 2016 - 2024 Layna Lingam
@@ -442,7 +434,7 @@
   
 </div>
 
-              <div
+  <div
   x-data="{ icons: [
     { name: 'moon', status: 'y' },
     { name: 'sunny', status: 'n' },
@@ -469,13 +461,14 @@
   </template>
 </div>
 
-            </footer>
+</footer>
+
           </div>
         </div>
         <div class="back">
           <div class="container">
             
-            <div class="dream-grid">
+            <div class="dream-grid dream-grid-about">
   
   
   
@@ -617,6 +610,51 @@
 </div>
 
             
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2016 - 2024 Layna Lingam
+  </p>
+  
+
+  
+  <p>Layna 2024 Copyright | All Rights Reserved</p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center h-[32px] px-2 gap-2 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
           </div>
         </div>
       </div>

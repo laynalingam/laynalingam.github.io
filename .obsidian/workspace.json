@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of hugo"
             }
+          },
+          {
+            "id": "0f5da7c00de612be",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +174,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81fde73b41d3f1d1",
+  "active": "aa7eabc9d12bc52a",
   "lastOpenFiles": [
     "hugo.toml",
     "public/img/favicon.svg",

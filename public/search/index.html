@@ -17,7 +17,7 @@
 
 
 <meta name="author" content="Layna Lingam" />
-<meta name="description" content="Layna Lingam&#39;s Website" />
+<meta name="description" content="Layna Lingam&#39;s Official Website" />
 
 
 
@@ -27,7 +27,7 @@
 <meta property="og:url" content="http://localhost:1313/search/">
   <meta property="og:site_name" content="Layna Lingam">
   <meta property="og:title" content="Layna Lingam">
-  <meta property="og:description" content="Layna Lingam&#39;s Website">
+  <meta property="og:description" content="Layna Lingam&#39;s Official Website">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
@@ -36,7 +36,7 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Layna Lingam">
-  <meta name="twitter:description" content="Layna Lingam&#39;s Website">
+  <meta name="twitter:description" content="Layna Lingam&#39;s Official Website">
 
 
 
@@ -83,7 +83,7 @@
         </a>
         
         
-        <div class="text-base-content/60 text-sm">Layna&#39;s Sensual Escapedes</div>
+        <div class="text-base-content/60 text-sm">Layna&#39;s Sensual Escapades 🍑</div>
         
       </div>
       
@@ -93,7 +93,7 @@
       <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
         <ion-icon name="menu" class="text-2xl"></ion-icon>
       </div>
-      <ul class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
         
 
 
@@ -165,7 +165,11 @@
       
       
       
-      <div role="link" tabindex="0" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip" title="About">About</div>
+      <div role="link" tabindex="0"
+        class="text-sm font-semibold cursor-pointer hover:underline"
+        @click="flip = !flip"
+        title="About"
+      >About</div>
       
       
 
@@ -198,7 +202,7 @@
         <div tabindex="0" role="button" class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" aria-label="Select an option">
           <ion-icon class="group-hover:text-primary-content text-xl" name="menu"></ion-icon>
         </div>
-        <ul class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-xl">
+        <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-xl">
           
           
 <li>
@@ -302,9 +306,9 @@ x-data="{
 
 
             
-            <footer class="flex justify-between items-center gap-2 px-4 py-12">
-            
-              <div>
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
   
   <p>
     © 2016 - 2024 Layna Lingam
@@ -316,7 +320,7 @@ x-data="{
   
 </div>
 
-              <div
+  <div
   x-data="{ icons: [
     { name: 'moon', status: 'y' },
     { name: 'sunny', status: 'n' },
@@ -343,13 +347,14 @@ x-data="{
   </template>
 </div>
 
-            </footer>
+</footer>
+
           </div>
         </div>
         <div class="back">
           <div class="container">
             
-            <div class="dream-grid">
+            <div class="dream-grid dream-grid-about">
   
   
   
@@ -491,6 +496,51 @@ x-data="{
 </div>
 
             
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2016 - 2024 Layna Lingam
+  </p>
+  
+
+  
+  <p>Layna 2024 Copyright | All Rights Reserved</p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center h-[32px] px-2 gap-2 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
           </div>
         </div>
       </div>
@@ -529,11 +579,9 @@ x-data="{
 
 
 
-
-
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha256-42IbU8t3tOwwbexB7ZVRHm3YDRf65aBPPjRtIUufj5I=" crossorigin="anonymous"></script>
 <script>
-  var fuseData = [{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["templater"],"description":"","readingTime":0,"tags":["test","testing"],"title":"Final Test","url":"/posts/final-test/"},{"author":"Author Name","avatar":null,"categories":["Artwork"],"description":"\u003ch1 id=\"a-romantic-evening-with-my-own\"\u003eA Romantic Evening With My Own\u003c/h1\u003e\n\u003cp\u003eAva\u0026rsquo;s evening with Maddy at their home.\u003c/p\u003e","readingTime":4,"tags":["mom-son","romantic","evening","love-making"],"title":"A Romantic Evening With My Own","url":"/posts/a_romantic_evening_with_my_own/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/laynalingam.webp\" alt=\"LaynaLingam\"\u003e\u003c/p\u003e\n\u003ch2 id=\"hi-there-\"\u003eHi there! 👋🏻\u003c/h2\u003e\n\u003cp\u003eHi there! I’m Layna. I am a writer, artist and a mom. I immigrated to the USA in 2014. Now, living in West Virginia, I’m a mix of curious explorer and laid-back mom. Yay, \u0026ldquo;Let\u0026rsquo;s Go Mountaineers! 💓\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003eI am a woman who’s learned that life has its twists, turns, and a few fun detours 😉. With my boys grown and mostly out of the house, I finally have time for some of my own passion “projects” (the kind I don’t talk about with my Bible study companions).\u003c/p\u003e","readingTime":1,"tags":["instagram","my-photos"],"title":"🙋‍♀️ Hi, This is Layna","url":"/posts/hi-this-is-layna/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/layna_pray.png\" alt=\"Layna Praying\"\u003e\u003c/p\u003e\n\u003ch2 id=\"my-faith-\"\u003eMy Faith ⛪\u003c/h2\u003e\n\u003cp\u003eI am a good Christian.\u003c/p\u003e\n\u003cp\u003eI believe Jesus Christ is our lord and savior. Faith is a grounding force in my life, and I’m a regular at our local Bible study group, where I’m known for a bit of… creative interpretation 📖.\u003c/p\u003e\n\u003cp\u003eI believe in devotion, reflection, and a little room for wandering spiritual thoughts—who doesn’t? I find faith isn’t always so black and white, and if you read between the lines, you might catch a bit of my own personal passion woven in. After all, life and faith can hold more than meets the eye. I also love to irritate my sons coaxing them to read Bible 😉.\u003c/p\u003e","readingTime":1,"tags":["instagram","my-photos"],"title":"✝️ I am a beleiver","url":"/posts/layna-likes-to-pray/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/layna_family_blurred_01.png\" alt=\"Layna Family Blurred 01\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/img/layna_family_blurred_02.png\" alt=\"Layna Family Blurred 02\"\u003e\u003c/p\u003e\n\u003ch2 id=\"i-love-my-fam-\"\u003eI love my fam 👩🏼‍👧‍👦,\u003c/h2\u003e\n\u003cp\u003eI love my family. Since, my ex-husband divorced me three years ago, I am flying solo. Living with my two cubs 🐯, I wouldn\u0026rsquo;t say it was half as bad as I expected.\u003c/p\u003e\n\u003cp\u003eMotherhood has been its own wild adventure! My two boys are adults now, and while I’m so proud of them, sometimes this house can feel like a bit of a zoo 🦁. Life as a single mom of two sometimes-rowdy young men has its challenges—and its surprises. As they’ve grown older, let’s just say they’re not as bashful about exploring their own lives, interests, and impulses, which can make for some… interesting family dynamics.\u003c/p\u003e","readingTime":2,"tags":["instagram","mom-son","my-photos"],"title":"👩🏻‍👦 I love my family","url":"/posts/layna-likes-family/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/layna_write.png\" alt=\"Layna Writing\"\u003e\u003c/p\u003e\n\u003ch2 id=\"my-writings-\"\u003eMy Writings ✍🏻\u003c/h2\u003e\n\u003cp\u003eWriting is my secret little escape, my own playground where I get to explore those tantalizing corners of desire and curiosity that most people keep locked away. For me, it’s about balance—the darkness and the light, both equally alluring. I love the thrill of those dark, sultry spaces—the forbidden, the taboo, the moments that make your heart race.\u003c/p\u003e\n\u003cp\u003eMy stories aren’t just typed words; they’re doorways into realms where the forbidden beckons, where the thrill of the taboo makes the heart beat just a little faster, and definitely for mature eyes only. I’m drawn to the kind of tales that nudge the boundaries, that hint at the hypnotic allure of giving into deep, hidden impulses.\u003c/p\u003e","readingTime":2,"tags":["instagram","my-photos"],"title":"👩🏻‍🎨 I am an artist","url":"/posts/layna-likes-to-art/"}];
+  var fuseData = [{"author":"Author Name","avatar":null,"categories":["Artwork"],"description":"\u003ch1 id=\"a-romantic-evening-with-my-own\"\u003eA Romantic Evening With My Own\u003c/h1\u003e\n\u003cp\u003eAva\u0026rsquo;s evening with Maddy at their home.\u003c/p\u003e","readingTime":4,"tags":["mom-son","romantic","evening","love-making"],"title":"A Romantic Evening With My Own","url":"/posts/a_romantic_evening_with_my_own/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/laynalingam.webp\" alt=\"LaynaLingam\"\u003e\u003c/p\u003e\n\u003ch2 id=\"hi-there-\"\u003eHi there! 👋🏻\u003c/h2\u003e\n\u003cp\u003eHi there! I’m Layna. I am a writer, artist and a mom. I immigrated to the USA in 2014. Now, living in West Virginia, I’m a mix of curious explorer and laid-back mom. Yay, \u0026ldquo;Let\u0026rsquo;s Go Mountaineers! 💓\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003eI am a woman who’s learned that life has its twists, turns, and a few fun detours 😉. With my boys grown and mostly out of the house, I finally have time for some of my own passion “projects” (the kind I don’t talk about with my Bible study companions).\u003c/p\u003e","readingTime":1,"tags":["instagram","my-photos"],"title":"🙋‍♀️ Hi, This is Layna","url":"/posts/hi-this-is-layna/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/layna_pray.png\" alt=\"Layna Praying\"\u003e\u003c/p\u003e\n\u003ch2 id=\"my-faith-\"\u003eMy Faith ⛪\u003c/h2\u003e\n\u003cp\u003eI am a good Christian.\u003c/p\u003e\n\u003cp\u003eI believe Jesus Christ is our lord and savior. Faith is a grounding force in my life, and I’m a regular at our local Bible study group, where I’m known for a bit of… creative interpretation 📖.\u003c/p\u003e\n\u003cp\u003eI believe in devotion, reflection, and a little room for wandering spiritual thoughts—who doesn’t? I find faith isn’t always so black and white, and if you read between the lines, you might catch a bit of my own personal passion woven in. After all, life and faith can hold more than meets the eye. I also love to irritate my sons coaxing them to read Bible 😉.\u003c/p\u003e","readingTime":1,"tags":["instagram","my-photos"],"title":"✝️ I am a beleiver","url":"/posts/layna-likes-to-pray/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/layna_family_blurred_01.png\" alt=\"Layna Family Blurred 01\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/img/layna_family_blurred_02.png\" alt=\"Layna Family Blurred 02\"\u003e\u003c/p\u003e\n\u003ch2 id=\"i-love-my-fam-\"\u003eI love my fam 👩🏼‍👧‍👦,\u003c/h2\u003e\n\u003cp\u003eI love my family. Since, my ex-husband divorced me three years ago, I am flying solo. Living with my two cubs 🐯, I wouldn\u0026rsquo;t say it was half as bad as I expected.\u003c/p\u003e\n\u003cp\u003eMotherhood has been its own wild adventure! My two boys are adults now, and while I’m so proud of them, sometimes this house can feel like a bit of a zoo 🦁. Life as a single mom of two sometimes-rowdy young men has its challenges—and its surprises. As they’ve grown older, let’s just say they’re not as bashful about exploring their own lives, interests, and impulses, which can make for some… interesting family dynamics.\u003c/p\u003e","readingTime":2,"tags":["instagram","mom-son","my-photos"],"title":"👩🏻‍👦 I love my family","url":"/posts/layna-likes-family/"},{"author":"Layna Lingam","avatar":"/img/laynalingam.webp","categories":["Layna's Photos"],"description":"\u003cp\u003e\u003cimg src=\"/img/layna_write.png\" alt=\"Layna Writing\"\u003e\u003c/p\u003e\n\u003ch2 id=\"my-writings-\"\u003eMy Writings ✍🏻\u003c/h2\u003e\n\u003cp\u003eWriting is my secret little escape, my own playground where I get to explore those tantalizing corners of desire and curiosity that most people keep locked away. For me, it’s about balance—the darkness and the light, both equally alluring. I love the thrill of those dark, sultry spaces—the forbidden, the taboo, the moments that make your heart race.\u003c/p\u003e\n\u003cp\u003eMy stories aren’t just typed words; they’re doorways into realms where the forbidden beckons, where the thrill of the taboo makes the heart beat just a little faster, and definitely for mature eyes only. I’m drawn to the kind of tales that nudge the boundaries, that hint at the hypnotic allure of giving into deep, hidden impulses.\u003c/p\u003e","readingTime":2,"tags":["instagram","my-photos"],"title":"👩🏻‍🎨 I am an artist","url":"/posts/layna-likes-to-art/"}];
   var fuseOptions = {
     keys: [
       "title",

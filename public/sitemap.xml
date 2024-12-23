@@ -2,37 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/final-test/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/templater/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/testing/</loc>
-    <lastmod>2024-11-01T09:26:28+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/a_romantic_evening_with_my_own/</loc>
     <lastmod>2024-10-28T19:59:41+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/artwork/</loc>
     <lastmod>2024-10-28T19:59:41+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-10-28T19:59:41+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/evening/</loc>
+    <lastmod>2024-10-28T19:59:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-28T19:59:41+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/love-making/</loc>
@@ -41,7 +23,13 @@
     <loc>http://localhost:1313/tags/mom-son/</loc>
     <lastmod>2024-10-28T19:59:41+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-28T19:59:41+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/romantic/</loc>
+    <lastmod>2024-10-28T19:59:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-28T19:59:41+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hi-this-is-layna/</loc>
